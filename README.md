@@ -25,9 +25,9 @@ Free 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲𝘀 𝗳𝗼𝗿 Data Science 🥳
 
 - geeksForgeeks- (https://www.geeksforgeeks.org/data-science-tutorial/)
 
--kaggle- (https://www.kaggle.com/general/216721)
+- kaggle- (https://www.kaggle.com/general/216721)
 
--w3schools -(https://www.w3schools.com/datascience/)
+- w3schools -(https://www.w3schools.com/datascience/)
 
 
 
