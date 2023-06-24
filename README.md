@@ -10,6 +10,8 @@ Free 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲𝘀 𝗳𝗼𝗿 Data Science 🥳
 
 ** 𝗟𝗲𝗰𝘁𝘂𝗿𝗲 𝗩𝗶𝗱𝗲𝗼𝘀 **
 
+- https://www.youtube.com/watch?v=ZftI2fEz0Fw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&pp=iAQB
+
 - https://www.youtube.com/playlist?list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdKXvV
 
 - https://www.youtube.com/playlist?list=PLEiEAq2VkUUIEQ7ENKU5Gv0HpRDtOphC6
